@@ -4,7 +4,7 @@
 
     <groupId>no.sysco.middleware.kafka</groupId>
     <artifactId>kafka-connect-transform</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1-SNAPSHOT</version>
 
     <name>Kafka Connect Transform</name>
     <description>Kafka Transformations for use with Kafka Connect.</description>
@@ -251,7 +251,6 @@
         <developerConnection>scm:git:https://github.com/sysco-middleware/kafka-connect-transform.git
         </developerConnection>
         <url>https://github.com/sysco-middleware/kafka-connect-transform/tree/master</url>
-        <tag>v0.1.0</tag>
     </scm>
 
     <issueManagement>
